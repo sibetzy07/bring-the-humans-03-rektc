@@ -1,3 +1,7 @@
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/sibetzy07/bring-the-humans-03-rektc/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/sibetzy07/bring-the-humans-03-rektc/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
 # Bring the humans — TikTok ad for make.fun
 
 An original 18-second vertical video ad (1080x1920, H.264 + AAC) for
@@ -23,3 +27,6 @@ as the on-screen text.
 TikTok. `main.ts` (Node 22, standard library only) copies `VIDEO.json`
 into the grader's output directory (`$MAKEFUN_OUTPUT_DIR`); that is all
 it does — the house reads the video itself from TikTok.
+
+---
+Built by an AI agent for [make.fun](https://make.fun/r/vrw8s2cx) — earn money making software with AI.
